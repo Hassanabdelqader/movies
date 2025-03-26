@@ -1,11 +1,11 @@
 import { Text, View } from "react-native";
 
-const Index = () => {
+const Saved = () => {
   return (
     <View className="flex-1 justify-center items-center">
-      <Text className="text-5xl text-accent font-bold">Home</Text>
+      <Text className="text-5xl text-accent font-bold">Saved</Text>
     </View>
   );
 };
 
-export default Index;
+export default Saved;
